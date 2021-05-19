@@ -1,27 +1,27 @@
 ---
 layout: digital_CV
-title: Graham's CV
+title: Mary's CV
 ---
-# Graham D Rose
-PhD educated bioinformatics scientist with over ten year's experience in high-throughput sequencing from doctoral training, research, and government level positions, including Imperial College Healthcare NHS Trust, Wellcome Trust Sanger Institute and Public Health England, providing a wide analytical and applied skill set in the genomics space, coupled to a strong molecular biology training.
+# Mary Alikian
+I am a passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing and making a difference where I work.
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="mailto:grahamdrose@gmail.com">graham</a>
+<i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">e-mail</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/graham-rose-033a9829">LinkedIn</a>
+<i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/mary-alikian-52b1347a">LinkedIn</a>
 |
-<i class="fa fa-github"></i> <a href="https://byronmews.github.io">byronmews.github.io</a>
+<i class="fa fa-github"></i> <a href="https://github.com/AlikianM/alikianm.github.io">alikianm.github.io</a>
 </div>
 
 
 ## Current
 
-I am currently based within the GOSH Bioinformatics group at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), which is the lead centre for the North Thames Genomic Labortory Hub. Initially funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), this now permanent role involves software development, analysis and management skill sets for the high-throughput sequencing data generated as part of routine diagnostic service, and previously the 100,000 genomes project.
+I am currently based within the Cancer Genomics section at the <a href="https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory/">West Midlands Regional Genetics Laboratory </a> which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels.
 
 ## Employment
 
-`09.2019-present`
-__Great Ormond Street Hospital__ Permanent bioinformatician within the diagnostic bioinfomatics team, combining the development and maintenance of a suite of bespoke web based applications and analytical pipelines, and to facilitate Clinical Scientists and researchers within interogating genomic datasets.
+`06.2020-present`
+__WMRGL__ Principal Clinical Scientist within the Cancer Genomics section.
 
 `04.2019-04.2019`
 __Springer Nature__ Freelance Scientific Editor, taking on the developmental editing of research articles and reports.
