@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: digital_cv
 title: Graham's CV
 ---
 # Graham D Rose
