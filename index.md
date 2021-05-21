@@ -1,186 +1,264 @@
 ---
 layout: cv
-title: Graham's CV
+title: Mary's CV
 ---
 # Graham D Rose
-PhD educated bioinformatics scientist with over ten year's experience in high-throughput sequencing from doctoral training, research, and government level positions, including Imperial College Healthcare NHS Trust, Wellcome Trust Sanger Institute and Public Health England, providing a wide analytical and applied skill set in the genomics space, coupled to a strong molecular biology training.
+A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing and making a difference where I work.
 
 <div id="webaddress">
-<i class="fa fa-envelope"></i> <a href="mailto:grahamdrose@gmail.com">graham</a>
+<i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">mary</a>
 |
-<i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/graham-rose-033a9829">LinkedIn</a>
+<i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/mary-alikian-52b1347a">LinkedIn</a>
 |
-<i class="fa fa-github"></i> <a href="https://byronmews.github.io">byronmews.github.io</a>
+<i class="fa fa-github"></i> <a href="https://alikianm.github.io">alikianm.github.io</a>
 </div>
 
 
 ## Current
 
-I am currently based within the GOSH Bioinformatics group at [Great Ormond Street Hospital for Children NHS Foundation Trust](http://www.labs.gosh.nhs.uk/laboratory-services/genetics), which is the lead centre for the North Thames Genomic Labortory Hub. Initially funded through [Genomics England](https://www.genomicsengland.co.uk/the-100000-genomes-project/), this now permanent role involves software development, analysis and management skill sets for the high-throughput sequencing data generated as part of routine diagnostic service, and previously the 100,000 genomes project.
+I am currently based within the Cancer Genomics section at the [West Midlands Regional Genetics Laboratory] (https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory) which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels.
+
 
 ## Employment
 
-`09.2019-present`
-__Great Ormond Street Hospital__ Permanent bioinformatician within the diagnostic bioinfomatics team, combining the development and maintenance of a suite of bespoke web based applications and analytical pipelines, and to facilitate Clinical Scientists and researchers within interogating genomic datasets.
+`06.2020-present`
+__Institute of Cancer Research (ICR), Royal Marsden NHS Foundation Trust (RMH)__ Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist. Duties:  Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVarUK and ClinVar. As Clincial Scientist providing consultancy services to various NHS laboratories.
 
-`04.2019-04.2019`
-__Springer Nature__ Freelance Scientific Editor, taking on the developmental editing of research articles and reports.
+`06.2017-07.2019`
+__Imperial College Healthcare NHS Trust (ICHT), Imperial Colelge London (ICL)__ Senior Clinical Scientist and Honorary Research Associate. Duties: lead the setting up of the genomics lab within Imperial as part of WLGMC, lead the return of resultx§x§x§s process and the management of the clinical reporting team within WLGMC working on multiple sites (ICHT, RMH, RBH and GOSH). Result interpretation, validation and clinical report provision for the three disciplines (Rare Disease, Cancer and HaemOnc). Managing API access, pulling data and working within the environment. Preparation for and setting up of Genomic MDTs as part of the mainstreaming process. Participation in workshops and best practice guidance documentation. Deputy lead for genomic education and skill development within the department in addition to consulting and planning for various R&D projects. Deputy lead for Quality management in addition to leading the Haematological rare disease service provision. Operational duties such as recruitment, TAT monitoring, appraisals, health roaster management, business case development, managerial meetings, risk assessments, service audits and planning, complaint investigations, etc. In addition, supervision of MSc student projects, lecturing and taking part in various research projects ongoing within the department and internationally.
 
-`04.2019-09.2019`
-__Great Ormond Street Hospital__ Contract bioinformatician role to help develop and maintain a software management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project. As well as wider integration across the Bioinformatics group software projects.
+`01.2015-06.2017`
+__Imperial Colelge London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Senior Research Associate and Honorary Clinical Scientist. Duties: Actively participate in CML research and data analysis in addition to implementing state of the art Next generation sequencing (NGS) and dPCR technologies for routine genetic testing in Hematological malignancies and solid tumours. Staff and project management, Workflow management, clinical reporting, test validation and technical troubleshooting, participation towards ISO preparation in addition to supervising students and staff training.  Representing the department in international meetings and collaborate with other national and international groups.
 
-`10.2018-04.2019`
-__Great Ormond Street Hospital__ Honorary bioinformatician role involving a collaboration to build on a bioinformatics management tool for handling clinical data retrieved from Genomics England as part of the 100,000 genomes project.
+`02.2010-12.2015`
+__CImperial Colelge London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Research Assistant and pre-registered clinical scientist. Duties: contribute in performing MRD and molecular diagnostic tests and clinical reporting, contribute in the research carried out in the department using a wide range of molecular techniques, supervise students, data analysis and presentation, contribute in seminars and meetings and collaborate with other national and international groups.
 
-`05.2018-present`
-__Imperial College London__ Honorary research fellow within the National Heart Lung Institute, providing bioinformatics support for several rare disease datasets generated as part of the 100,000 genomes project.
+`06.2020-present`
+__Imperial College London (ICL)__ Research Assistant. 
+Duties: 1st aid officer, bench work, data analysis and organization, equipment maintenance, animal work, supervise students and collaborate with other groups.
 
-`01.2018-04.2019`
-__Imperial College Healthcare NHS Trust__ Bioinformatics scientist working on the 100,000 Genomes Project, and part of the West London Genomic Medicine Centre (GMC).
+`06.2020-present`
+__Imperial College Healthcare NHS Trust__ Queen Mary University of London (QMUL)(BARTS). Research Assistant.
+Duties: bench work, data analysis, presentation and organization, scientific illustration, phlebotomist and tissue banking coordinator.
 
-`04.2016-04.2018`
-__Faculty of Genomic Medicine, Queen Mary University London__ Visiting lecturer, responsible for delivering part of the HEE MSc in Genomic Medicine ‘Application of Genomics in Infectious Disease’ module.
-
-`07.2014-01.2018`
-__Public Health England__ Computational Biologist role, responsible for building and delivering genomic and metagenomic research and development projects using a range of NGS platforms.
-
-`09.2013-07.2014`
-__The Pirbright Institute__ Characterising terabase-scale sequence data from the transcriptome of Anopheles gambiae, as part of the Vector Molecular Biology group
-
-`02.2008-07.2009`
-__Wellcome Trust Sanger Institute__ Finishing and comparative analysis within the Pathogen Genomics group, including Clostridium difficile and Mycobacterium
-tuberculosis. 
 
 ## Education
 
-`09.2009-06.2013`
-__MRC National Institute of Medical Research__ Pathogen Genomics PhD (supervisors: Prof. Douglas Young and Prof. Sebastein Gagneux). My thesis was entitled _A genomic and transcriptomic study of lineage-specific variation in Mycobacterium tuberculosis_, available via [UCL Senate House](http://discovery.ucl.ac.uk/1397251/)                                    
+`2011-2016`
+__Imperial College London (ICL)__ PhD - Molecular Pathology and Genomic medicine. available via [Imperial Spyral Library](http://hdl.handle.net/10044/1/56367)                                    
 
-`09.2006-08.2007`
-__University of Leeds__ MRes Bioinformatics and Computational Biology (_Distinction_)
+`2006-2007`
+__Queen Mary University of London (QMUL)__ MSc Cancer Therapeutics and Molecular Pathology (_merit_)
 
-`09.2003-06.2006`
-__University of Leeds__ BSc Microbiology (_Hons_) 2.1
+`2001-2005`
+__Tishreen University, Lattakia, Syria__ BSc in Biochemistry (_Hons_) 1.1
 
-## Presentations
-
-### National
+## Profesional Memberships
 
 `2017`
-Microbiology Society event: Microbiome session at Porton Down, "Challenges of the Unknown"
+__Charter Management Institute (CMI)__ 
 
-`2016`
-Illumina User General Meeting: Invited scientific talk session, "The preterm infant gut microbiome"
+`2014`
+Health Care Profession Council, HCPC (_former HPC_)(_CS19211_)
+
+`2013`
+British Society of Medical Genetics, BSMG (_former BSHG_)
+European Society of Human Genetics, ESHG
+Cancer genetics Interest Group
+Society of Genomics Policy and Human Genetics
+
+`2012`
+Genetics Society
+
+`2008`
+Professional Association of Diving Instructors (PADI). _Advanced open water diver, under water photographer and rescue diver_
+
+`2005`
+Association for Amateur Astronomy (SAAA)
 
 
 ## Publications
 
 <!-- ### Journals -->
-`2017`
-__Complete Genome Sequences of BK Polyomavirus Strains from Two Patients with Urinary Tract Infection, Sequenced Using the Ion Torrent Platform.__
-__G. Rose__, K. Ranellou, R. Misra, C. Crump, D. Wooldridge, S. Parmar, C. Maddren, S. Gharbia, H.  Jalal. Genome Announcements. 2017
-
-__The Challenges of Identifying Mycobacterium to the Species Level using MALDI‐TOF MS__
-__G. Rose__, R. Culak, T. Chambers, S. E. Gharbia, H. N. Shah, Y. Kim, JS. Kim.  MALDI‐TOF and Tandem MS for Clinical Microbiology. 2017.
-
-__Antibiotic resistance potential of the healthy preterm infant gut microbiome.__
-__G. Rose__, A. G. Shaw, K. Sim, D. J. Wooldridge, M. Li, S. Gharbia, R. Misra, J. S. Kroll. PeerJ. 2017.
+__Book Chapters__
+`2019`
+__Molecular Diagnostics. Recent Technical advances in Molecular analysis.__ N. Presneau and __M. Alikian__. Chapter 2. Oxford University Press. March 2019.
 
 `2016`
-__Dosage compensation in the African malaria mosquito Anopheles gambiae.__
-__G. Rose__, E. Krzywinska, J. Kim, L. Revuelta, L. Ferretti, and J. Krzywinski. Genome Biology and Evolution. 2016.
+__The Genetic basis of Haematological cancers. The genetics of Chronic Myeloid Leukemia.__
+P.C. May, J.S. Khorashad, __M. ALikian__, D. Perrotti and A.G. Reid. Chapter 7. Wiley Online Library. 2016, p312-359.
 
-__Development of a candidate reference material for adventitious virus detection in vaccine and biologicals manufacturing by deep sequencing__. ET Mee, MD Preston, PD Minor, S Schepelmann; __CS533 Study Participants__. Vaccine. 2016.
+__Guidelines__
+`2020`
+__Cancer Variant Interpretation Group UK (CanVIG-UK): An Exemplar National Subspecialty Multidisciplinary Network.__
+Alice Garrett, Alison Callaway, Miranda Durkie et al; 2020. J Med Genet, 2020.
 
-`2015`
-__Genomic diversity of BK polyomavirus in East of England–Preliminary data.__
-K Ranellou, C Crump, R Misra, D Wooldridge, __G Rose__, S Gharbia, S Parmar, M Curran, N Verlander, H Zhang, H Jalal. Journal of Clinical Virology. 2015.
+`2020`
+__Guidance for the Validation and Reporting of Whole Genome Sequencing Results for the 100,000 Genomes Project Cancer Programme.__
+AContributors: __M. ALikian__, S. Deans, S. Diaz-Cano, H. Dickenson, A. Hamblin, S. Henderson, S. Hing, J. Moorhead, E. Shaw, G. Taylor, C. Turnbull, A. Wallace, N. West and C. Wragg on behalf of the NHS England Cancer Validation and Reporting Working Group. May 2018.
 
-__Challenges of the Unknown: Clinical Application of Microbial Metagenomics.__
-__G. Rose__, D. J. Wooldridge, C. Anscombe, E. T. Mee, R. V. Misra, and S. Gharbia. International Journal of Genomics. 2015.
-
-__Complete genome sequence of the hypervirulent bacterium Clostridium difficile strain G46, ribotype 027.__
-T. Gaulton, R. Misra, __G. Rose__, P. Baybayan, R. Hall, J. Freeman, J. Turton, S. Picton, J. Korlach, S. Gharbia, and H. Shah. Genome Announcements. 2015.
-
-`2013`
-__A genomic and transcriptomic study of lineage-specific variation in Mycobacterium tuberculosis.__
-__GD. Rose__. University College London. 2013.
-
-__Mapping of Genotype-Phenotype Diversity among Clinical Isolates of Mycobacterium tuberculosis by Sequence-Based Transcriptional Profiling.__
-__G. Rose__, T. Cortes, I. Comas, M. Coscolla, S. Gagneux, and D. B. Young. Genome Biology and Evolution. 2013.
-
-__Genome-wide Mapping of Transcriptional Start Sites Defines an Extensive Leaderless Transcriptome in Mycobacterium tuberculosis.__
-T. Cortes, O. T. Schubert, __G. Rose__, K. B. Arnvig, I. Comas, R. Aebersold, and D. B. Young Cell Reports. 2013.
-
-__A Small RNA Encoded in the Rv2660c Locus of Mycobacterium tuberculosis is Induced during Starvation and Infection.__
-J. Houghton, T. Cortes, O. Schubert, __G. Rose__, A. Rodgers, M. De Ste Croix, R. Aebersold, D. B. Young, and K. B. Arnvig. PLoS ONE. 2013.
-
-__Use of whole genome sequencing to determine the microevolution of Mycobacterium tuberculosis during an outbreak.__
-M. Kato-Maeda, C. Ho, B. Passarelli, N. Banaei, J. Grinsdale, L. Flores, J. Anderson, M. Murray, __G. Rose__, L. M. Kawamura, N. Pourmand, M. a. Tariq, S. Gagneux, and P. C. Hopewell. PLoS One. 2013.
-
-`2012`
-__The heterogeneous evolution of multidrug-resistant Mycobacterium tuberculosis.__
-B. Müller, S. Borrell, __G. Rose__, and S. Gagneux. Trends Genet. 2012.
+__Reviews__
+`2017`
+__Molecular techniques for the personalised management of patients with chronic myeloid leukaemia.__
+__M. Alikian__, Robert Peter Gale, Jane F Apperley, Letizia Foroni. Biomolecular detection and quantification. 2017. 11, 4-20.
 
 `2011`
-__Whole-genome sequencing of rifampicin-resistant Mycobacterium tuberculosis strains identifies compensatory mutations in RNA polymerase genes.__
-I. Comas, S. Borrell, A. Roetzer, __G. Rose__, B. Malla, M. Kato-Maeda, J. Galagan, S. Niemann, and S. Gagneux. Nature Genetics 2011.
+__Bcr-Abl1 Kinase Domain Mutations: Methodology and Clinical Evaluation.__
+__M. Alikian__, G. Gerrard, P. G. Subramanian, K. Mudge, P. Foskett, J. S. Khorashad, A. C. Lim, D. Marin, D. Milojkovic, A. Reid, K. Rezvani, J. Goldman, J. Apperley, and L. Foroni. Am J Hematol, 2011.
 
-__Sequence-based analysis uncovers an abundance of non-coding RNA in the total transcriptome of Mycobacterium tuberculosis.__
-K. B. Arnvig, I. Comas, N. R. Thomson, J. Houghton, H. I. Boshoff, N. J. Croucher, __G. Rose__, T. T. Perkins, J. Parkhill, G. Dougan, and D. B. Young. PLoS Pathogens. 2011.
+__Original Research__
+`2021`
+__Identification of Reduced Host Transcriptomic Signatures for Tuberculosis Disease and Digital PCR-Based Validation and Quantification.__
+H.D. Gliddon, M. Kaforou, __M. Alikian__, D. Habgood-Coote, C. Zhou, T. Oni, S.T. Anderson, A.J. Brent, A.C. Crampin, B. Eley, R. Heyderman, F. Kern, P.R. Langford, T.H.M. Ottenhoff, M.L. Hibberd, N. French, V.J. Wright, H.M. Dockrell, L.J. Coin, R.J. Wilkinson, M. Levin. Front Immunol. 2021; 12: 637164.
 
-__Genotypic and phenotypic modifications of Neisseria meningitidis after an accidental human passage.__
-H. Omer, __G. Rose__, K. a. Jolley, E. Frapy, J. R. Zahar, M. C. J. Maiden, S. D. Bentley, C. R. Tinsley, X. Nassif, and E. Bille. PLoS One. 2011.
+`2020`
+__Low Grade Mosaicism in Hereditary Haemorrhagic Telangiectasia Identified by Bidirectional Whole Genome Sequencing Reads Through the 100,000 Genomes Project Clinical Diagnostic Pipeline.__
+J. M. Clarke, __M. Alikian__, S. Xiao et al. J Med Genet, 2020.
+
+`2019`
+__Somatic variants in epigenetic modifiers identify persons with chronic phase chronic myeloid leukaemia less likely to respond to imatinib but not second generation tyrosine kinase-inhibitors.__
+G. Nteliopoulos , A. Bazeos , S. Claudiani, G. Gerrard, E. Curry, R. Szydlo, __M. Alikian__, Z. Nikolakopoulou, H.E. Foong, S. Loaiza, J.S. Khorashad, D. Milojkovic, R.p. Gale, D. Perrotti, L. Foroni, J.F. Apperley. Haematologica 2019; 104(12): 2400–2409.
+
+__Impaired cellular and humoral immunity is a feature of Diamind-Blackfan anaemia; experience of 107 unselected cases in the United Kingdom.__
+D. Iskander, I. Roberts, C. Rees, R. Szyldo, __M. Alikian__, M. Neale, Y., P. Kelleher, A. Karadimitris, J. de la Fuente. BJH 2019, p321-326.
+
+`2016`
+__Cepheid xpert monitor platform for the confirmation of BCR-ABL1 IS conversion factors for the molecular monitoring of chronic myeloid leukaemia.__
+G. Gerrard, H.E. Foong, K. Mudge, __M. Alikian__, J.F. Apperley, L. Foroni. Leuk Res. 2016 Oct;49:47-50.
+
+__Quantitative Analysis of Mutant Subclones in Chronic Myeloid Leukemia: Comparison of Different Methodological Approaches.__
+S. Preuner, A. Barna, F. Frommlet, S. Czurda, B. Konstantin, __M. Alikian__, M.K. Polakova, T. Sacha, J. Richter, T. Lion, C. Gabriel. Int J Mol Sci. 2016 Apr 29;17(5).
+
+__NGS-assisted DNA-based digital PCR for a personalised approach to the detection and quantification of residual disease in CML patients.__
+__M. Alikian__, P. Ellery, M. Forbes, G. Gerrard, D. Kasperaviciute, A. Sosinsky, M. Mueller, A. Whale, D. Milojkovic, J. Apperley, J. Huggett, L. Foroni and A.G. Reid. J Mol Diagn. 2016 Mar;18(2):176-89.
+
+`2015`
+__PTCH1 Expression at Diagnosis Predicts Imatinib Failure in Chronic Myeloid Leukaemia Patients in Chronic Phase.__
+JM Alonso-Dominguez, J. Grinfeld, __M. Alikian__, A. Reid, M. Daghistani, C. Hedgley, S. O´Brien, R.E. Clark, J.F. Apperley, L. Foroni, G. Gerrard. Am J Hematol. 2015 Jan:90(1): 20-6.
+
+`2013`
+__A common novel splice variant of SLC22A1 (OCT1) is associated with impaired responses to imatinib in patients with chronic myeloid leukaemia.__
+J. Grinfeld, G. Gerrard, __M. Alikian__, JM Alonso-Dominguez , S. Ale, M. Valgañon, G. Nteliopoulos, D. White, D. Marin, C. Hedgley, S. O’Brien, R.E. Clark, J.M. Goldman, D. Milojkovic, J.F. Apperley, L. Foroni. Br J Haematol. 2013 Dec:163(5):631-9.
+
+__Bcr-Abl1 Compound Mutations in Tyrosine Kinase Inhibitor-Resistant Cml: Frequency and Clonal Relationships.__
+J. S. Khorashad, T. W. Kelley, P. Szankasi, C. C. Mason, S. Soverini, L. T. Adrian, C. A. Eide, M. S. Zabriskie, T. Lange, J. C. Estrada, A. D. Pomicter, A. M. Eiring, I. L. Kraft, D. J. Anderson, Z. Gu, __M. Alikian__, A. G. Reid, L. Foroni, D. Marin, B. J. Druker, T. O'Hare, and M. W. Deininger. Blood, 121 (2013), 489-98.
+
+`2012`
+__Fast-Mode Duplex Qpcr for Bcr-Abl1 Molecular Monitoring: Innovation, Automation, and Harmonization.__
+G. Gerrard, K. Mudge, P. Foskett, D. Stevens, __M. Alikian__, H. E. White, N. C. Cross, J. Apperley, and L. Foroni. Am J Hematol, 87 (2012), 717-20.
 
 `2010`
-__Evolutionary dynamics of Clostridium difficile over short and long time scales.__
-M. He, M. Sebaihia, T. D. Lawley, R. A. Stabler, L. F. Dawson, M. J. Martin, K. E. Holt, H. M. B. Seth-Smith, M. a Quail, R. Rance, K. Brooks, C. Churcher, D. Harris, S. D. Bentley, C. Burrows, L. Clark, C. Corton, V. Murray, __G. Rose__, S. Thurston, A. van Tonder, D. Walker, B. W. Wren, G. Dougan, and J. Parkhill. PNAS. 2010.
+__A Novel Pyrazolo[1,5-a]Pyrimidine Is a Potent Inhibitor of Cyclin-Dependent Protein Kinases 1, 2, and 9, Which Demonstrates Antitumor Effects in Human Tumor Xenografts Following Oral Administration.__
+D. A. Heathcote, H. Patel, S. H. Kroll, P. Hazel, M. Periyasamy, __M. Alikian__, S. K. Kanneganti, A. S. Jogalekar, B. Scheiper, M. Barbazanges, A. Blum, J. Brackow, A. Siwicka, R. D. Pace, M. J. Fuchter, J. P. Snyder, D. C. Liotta, P. S. Freemont, E. O. Aboagye, R. C. Coombes, A. G. Barrett, and S. Ali. J Med Chem, 53 (2010), 8508-22.
 
-`2009`
-__Comparative genome and phenotypic analysis of Clostridium difficile 027 strains provides insight into the evolution of a hypervirulent bacterium.__
-R. A. Stabler, M. He, L. Dawson, M. Martin, E. Valiente, C. Corton, T. D. Lawley, M. Sebaihia, M. A. Quail, __G. Rose__, D. N. Gerding, M. Gibert, M. R. Popoff, J. Parkhill, G. Dougan, and B. W. Wren. Genome Biology. 2009.
+`2008`
+__WTX is rarely mutated in acute myeloid leukemia.__
+C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D. BONNET, A. BURNETT, K. MILLS, A.T. LISTER, & J. FITZGIBBON. Haematologica, 93 (2008), 947-8.
 
 
+
+# Skills and Experties
 
 ## Technical skills
 
-* UNIX - cli
-* Shell scripting - bash/awk/sed
+* Genotyping (SNP-array, QF-PCR, Fragment-Analysis)
+* Hybridisation (MLPA, array-CGH)
+* Sequencing (Sanger, NGS, RNA-esq, MS-seq, CHIP-seq)
+* Molecular Quantification (qPCR, dPCR)
+* Minimal Residual Disease (MRD)
+* Immunophenotyping (flow-cytometry, FACS)
+* protein (Western Blot, Maldi-TOF, ELISA)
+* Cellular pathology (IHC, TMA, microtomy, FFPE block prep, IP)
+* Tissue Culture (Cell passage, electroporation, SRB Assay, Kinase assay, transfection)
+
+
+## Computational Skills
+
+* Shell scripting - bash
 * Python - pandas, beautifulsoup, APIs
-* Full Stack development - Django, Docker, MySQL, PostgreSQL
-* HPC - batching, lustre
-* Java/Groovy - pipelining, bpipe workflows
-* Perl - general scripting
-* VBA - automation within NHS frameworks
-* R - bioconductor, DESeq
-* Git
+* Full Stack development - Django, Docker, MySQL
+* Front-end development - HTML, CSS, JavaScript
+* R - bb2 plot
+* Git, GitHub
+* HPC environment
+* M. office packages
+* GraphPad PRISM
+
+
+## Graphical Skills
+
+* Adobe (Photoshop, Illustrator, InDesign)
+* Corel Draw
+* FLASH Animation
+
+
+## Management & Leadership Expertise
+
+* R&D development
+* service delivery management
+* Quality management
+* Monitoring KPIs
+* Costing and business cases preparation
+* Workforce skill development
+* Project management
+* Risk managmeent
+* Cost-benefit analysis
+* Budgeting and invoicing
+* Balance sheets interpretation
+* Change management
+* Social enterprise management
+* Stakeholder management
+* Auditing
+* Recruitment and Selection
+* workload management
+* Staff management, development and appraisals
+* strategic plannning
+* Mentoring and Coaching
+* Team development
 
 
 ## Areas of expertise
+* Genomic Medicine/Precision Medicine
+* Clinical Genomics
+* Molecular Pathology
+* Cancer Genomics
+* ISO 15189:2012 Med-Lab
+* UKAS accreditation prep
 * Bioinformatics
-* Analysis pipeline development
-* NGS and variant calling
-* Bacterial genomics
+* Molecular Methodologies
+* Molecular Diagnostics
+* Genomic Testing
+* Pharmacogenomics (PGx)
 
 
-## Awards
+## Lecturing Experience
+Advances in Molecular Technologies - Haematology BSc course
+Molecular Methodologies - MSc Genomic Medicine (CPD)
+dPCR – EMBL 3 day course
+_Exam paper marking for various BSc and MSc modules_
 
-Public Health England Pump Prime Funding (PPF) round 2017 (viral surveillance study)
 
-MRC scholarship (PhD fees + stipend)
+## Student supervision
 
-BBSRC postgraduate scholarship (MRes fees + stipend)
+Supervised a range of students to complete their projects for various courses including MSc Human Molecular genetics, MSc Molecular medicine, MSc Genomic Medicine, MRes in cancer biology, Erasmus program, BSc Biomedical Sciences, Trainee MDs, STPs and clinical scientists, etc
+
+
+## Public Engagement
+
+STEM (Science, Technology, Engineering and Mathematics) Ambassador 
+Research dissemination and public education thought commercial videos and webinars prepared in conjugation with industry or charity bodies. 
+Science day participation to promote the profession of healthcare science.</p>
 
 
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:grahamdrose@gmail.com">grahamdrose</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/byronmews">github</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/graham-rose-033a9829/">LinkedIn</a>
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=TIkDO_cAAAAJ&hl=en">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-5097-5426">ORCID</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">malikian</a><br />
+* <i class="fa fa-github"></i> <a href="https://github.com/AlikianM">github</a><br />
+* <i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/mary-alikian-52b1347a">LinkedIn</a>
+* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=N8TJ0kQAAAAJ&hl=en">Google scholar</a>
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4298-6926">ORCID</a>
 
 <!-- ### Footer
 
-Last updated: Sep 2018 -->
+Last updated: May 2021 -->
