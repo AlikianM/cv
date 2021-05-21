@@ -2,7 +2,7 @@
 layout: cv
 title: Mary's CV
 ---
-# Mary ALikian
+# Mary Alikian
 A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing and making a difference where I work.
 
 <div id="webaddress">
