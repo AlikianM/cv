@@ -7,5 +7,5 @@ jekyll build
 rm -R ../other/byronmews.github.io/cv/*
 
 # re-add new
-cp _site/index.html ../other/byronmews.github.io/cv/.
-cp -R _site/media ../other/byronmews.github.io/cv/.
+cp _site/index.html ../other/alikianm.github.io/cv/.
+cp -R _site/media ../other/alikianm.github.io/cv/.
