@@ -161,7 +161,7 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 
 
 
-## Skills and Experties
+# Skills and Experties
 
 ## Technical skills
 
@@ -219,20 +219,6 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 * strategic plannning
 * Mentoring and Coaching
 * Team development
-
-
-## Areas of expertise
-* Genomic Medicine/Precision Medicine
-* Clinical Genomics
-* Molecular Pathology
-* Cancer Genomics
-* ISO 15189:2012 Med-Lab
-* UKAS accreditation prep
-* Bioinformatics
-* Molecular Methodologies
-* Molecular Diagnostics
-* Genomic Testing
-* Pharmacogenomics (PGx)
 
 
 ## Lecturing Experience
