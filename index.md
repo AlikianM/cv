@@ -80,7 +80,7 @@ Association for Amateur Astronomy (SAAA)
 ## Publications
 
 <!-- ### Journals -->
-__<span style="color: blue;">Book Chapters</span>__    
+<span style="color: blue;">__Book Chapters__</span> 
 
 `2019`
 __Molecular Diagnostics. Recent Technical advances in Molecular analysis.__ N. Presneau and __M. Alikian__. Chapter 2. Oxford University Press. March 2019.
