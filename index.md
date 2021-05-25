@@ -87,7 +87,8 @@ __Molecular Diagnostics. Recent Technical advances in Molecular analysis.__ N. P
 
 `2016`
 __The Genetic basis of Haematological cancers. The genetics of Chronic Myeloid Leukemia.__
-P.C. May, J.S. Khorashad, __M. ALikian__, D. Perrotti and A.G. Reid. Chapter 7. Wiley Online Library. 2016, p312-359.
+P.C. May, J.S. Khorashad, __M. ALikian__, D. Perrotti and A.G. Reid. Chapter 7. Wiley Online Library. 2016, p312-359.     
+
 
 <span style="color: blue;">__Guidelines__</span>       
 
@@ -97,9 +98,10 @@ Alice Garrett, Alison Callaway, Miranda Durkie et al; 2020. J Med Genet, 2020.
 
 `2020`
 __Guidance for the Validation and Reporting of Whole Genome Sequencing Results for the 100,000 Genomes Project Cancer Programme.__
-AContributors: __M. ALikian__, S. Deans, S. Diaz-Cano, H. Dickenson, A. Hamblin, S. Henderson, S. Hing, J. Moorhead, E. Shaw, G. Taylor, C. Turnbull, A. Wallace, N. West and C. Wragg on behalf of the NHS England Cancer Validation and Reporting Working Group. May 2018.
+AContributors: __M. ALikian__, S. Deans, S. Diaz-Cano, H. Dickenson, A. Hamblin, S. Henderson, S. Hing, J. Moorhead, E. Shaw, G. Taylor, C. Turnbull, A. Wallace, N. West and C. Wragg on behalf of the NHS England Cancer Validation and Reporting Working Group. May 2018.        
 
-<span style="color: blue;">__Reviews__</span>       
+
+<span style="color: blue;">__Reviews__</span>        
 
 `2017`
 __Molecular techniques for the personalised management of patients with chronic myeloid leukaemia.__
@@ -107,7 +109,8 @@ __M. Alikian__, Robert Peter Gale, Jane F Apperley, Letizia Foroni. Biomolecular
 
 `2011`
 __Bcr-Abl1 Kinase Domain Mutations: Methodology and Clinical Evaluation.__
-__M. Alikian__, G. Gerrard, P. G. Subramanian, K. Mudge, P. Foskett, J. S. Khorashad, A. C. Lim, D. Marin, D. Milojkovic, A. Reid, K. Rezvani, J. Goldman, J. Apperley, and L. Foroni. Am J Hematol, 2011.
+__M. Alikian__, G. Gerrard, P. G. Subramanian, K. Mudge, P. Foskett, J. S. Khorashad, A. C. Lim, D. Marin, D. Milojkovic, A. Reid, K. Rezvani, J. Goldman, J. Apperley, and L. Foroni. Am J Hematol, 2011.          
+
 
 <span style="color: blue;">__Original Research__</span>     
 
