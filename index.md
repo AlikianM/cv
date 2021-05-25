@@ -89,7 +89,7 @@ __Molecular Diagnostics. Recent Technical advances in Molecular analysis.__ N. P
 __The Genetic basis of Haematological cancers. The genetics of Chronic Myeloid Leukemia.__
 P.C. May, J.S. Khorashad, __M. ALikian__, D. Perrotti and A.G. Reid. Chapter 7. Wiley Online Library. 2016, p312-359.
 
-__Guidelines__      
+<span style="color: blue;">__Guidelines__</span>       
 
 `2020`
 __Cancer Variant Interpretation Group UK (CanVIG-UK): An Exemplar National Subspecialty Multidisciplinary Network.__
@@ -99,7 +99,7 @@ Alice Garrett, Alison Callaway, Miranda Durkie et al; 2020. J Med Genet, 2020.
 __Guidance for the Validation and Reporting of Whole Genome Sequencing Results for the 100,000 Genomes Project Cancer Programme.__
 AContributors: __M. ALikian__, S. Deans, S. Diaz-Cano, H. Dickenson, A. Hamblin, S. Henderson, S. Hing, J. Moorhead, E. Shaw, G. Taylor, C. Turnbull, A. Wallace, N. West and C. Wragg on behalf of the NHS England Cancer Validation and Reporting Working Group. May 2018.
 
-__Reviews__      
+<span style="color: blue;">__Reviews__</span>       
 
 `2017`
 __Molecular techniques for the personalised management of patients with chronic myeloid leukaemia.__
@@ -109,7 +109,7 @@ __M. Alikian__, Robert Peter Gale, Jane F Apperley, Letizia Foroni. Biomolecular
 __Bcr-Abl1 Kinase Domain Mutations: Methodology and Clinical Evaluation.__
 __M. Alikian__, G. Gerrard, P. G. Subramanian, K. Mudge, P. Foskett, J. S. Khorashad, A. C. Lim, D. Marin, D. Milojkovic, A. Reid, K. Rezvani, J. Goldman, J. Apperley, and L. Foroni. Am J Hematol, 2011.
 
-__Original Research__      
+<span style="color: blue;">__Original Research__</span>     
 
 `2021`
 __Identification of Reduced Host Transcriptomic Signatures for Tuberculosis Disease and Digital PCR-Based Validation and Quantification.__
