@@ -161,7 +161,7 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 
 
 
-# Skills and Experties
+## Skills and Experties
 
 ## Technical skills
 
@@ -222,9 +222,9 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 
 
 ## Lecturing Experience
-Advances in Molecular Technologies - Haematology BSc course
-Molecular Methodologies - MSc Genomic Medicine (CPD)
-dPCR – EMBL 3 day course
+__Haematology BSc course__ - Imperial College London 
+__MSc Genomic Medicine__ Imperial College London
+__dPCR 3 day course__ – EMBL 
 _Exam paper marking for various BSc and MSc modules_
 
 
