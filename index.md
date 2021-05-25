@@ -42,7 +42,7 @@ __Imperial College Healthcare NHS Trust__ Queen Mary University of London (QMUL)
 Duties: bench work, data analysis, presentation and organization, scientific illustration, phlebotomist and tissue banking coordinator.
 
 
-## Education
+## Education    
 
 `2011-2016`
 __Imperial College London (ICL)__ PhD - Molecular Pathology and Genomic medicine. available via [Imperial Spyral Library](http://hdl.handle.net/10044/1/56367)                                    
@@ -80,7 +80,7 @@ Association for Amateur Astronomy (SAAA)
 ## Publications
 
 <!-- ### Journals -->
-__Book Chapters__    
+__<span style="color: blue;">Book Chapters</span>__    
 
 `2019`
 __Molecular Diagnostics. Recent Technical advances in Molecular analysis.__ N. Presneau and __M. Alikian__. Chapter 2. Oxford University Press. March 2019.
