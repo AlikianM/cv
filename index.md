@@ -224,11 +224,12 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 ## Lecturing Experience
 __Haematology BSc course__ - Imperial College London    
 
-__MSc Genomic Medicine__ Imperial College London     
+__MSc Genomic Medicine__ - Imperial College London     
 
 __dPCR 3 day course__ – EMBL     
 
-_Exam paper marking for various BSc and MSc modules_
+_Exam paper marking for various BSc and MSc modules_       
+
 
 
 ## Student supervision
