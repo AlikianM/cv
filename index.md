@@ -33,11 +33,11 @@ __Imperial College London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ 
 `02.2010-12.2015`
 __Imperial College London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Research Assistant and pre-registered clinical scientist. Duties: contribute in performing MRD and molecular diagnostic tests and clinical reporting, contribute in the research carried out in the department using a wide range of molecular techniques, supervise students, data analysis and presentation, contribute in seminars and meetings and collaborate with other national and international groups.
 
-`06.2020-present`
+`11.2008-02.2010`
 __Imperial College London (ICL)__ Research Assistant. 
 Duties: 1st aid officer, bench work, data analysis and organization, equipment maintenance, animal work, supervise students and collaborate with other groups.
 
-`06.2020-present`
+`08.2007-08.2008`
 __Imperial College Healthcare NHS Trust__ Queen Mary University of London (QMUL)(BARTS). Research Assistant.
 Duties: bench work, data analysis, presentation and organization, scientific illustration, phlebotomist and tissue banking coordinator.
 
