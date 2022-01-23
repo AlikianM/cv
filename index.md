@@ -38,7 +38,7 @@ __Imperial College London (ICL)__ Research Assistant.
 Duties: 1st aid officer, bench work, data analysis and organization, equipment maintenance, animal work, supervise students and collaborate with other groups.
 
 `08.2007-08.2008`
-__Imperial College Healthcare NHS Trust__ Queen Mary University of London (QMUL)(BARTS). Research Assistant.
+__Queen Mary University of London (QMUL)(BARTS)__ Research Assistant.
 Duties: bench work, data analysis, presentation and organization, scientific illustration, phlebotomist and tissue banking coordinator.
 
 
