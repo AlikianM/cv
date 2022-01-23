@@ -112,6 +112,10 @@ __M. Alikian__, G. Gerrard, P. G. Subramanian, K. Mudge, P. Foskett, J. S. Khora
 <span style="color: blue;">__Original Research__</span>     
 
 `2021`
+__Identification and validation of a novel pathogenic variant in GDF2 (BMP9) responsible for hereditary hemorrhagic telangiectasia and pulmonary arteriovenous malformations.__
+S. Balachandar, TJ. Graves, A. Shimonty, K. Kerr, J. Kilner, S. Xiao, R. Slade, M. Sroya, <strong>M. Alikian</strong>, E. Curetean, E. Thomas, VPM. McConnell, S. McKee, F. Boardman-Pretty, A. Devereau, TA. Fowler, MJ. Caulfield, EW. Alton, T. Ferguson, J. Redhead, AJ. McKnight , GA. Thomas, Genomics England Research Consortium, MA. Aldred, CL. Shovlin. Am J Med Genet A. 2021.
+      
+`2021`
 __Identification of Reduced Host Transcriptomic Signatures for Tuberculosis Disease and Digital PCR-Based Validation and Quantification.__
 H.D. Gliddon, M. Kaforou, __M. Alikian__, D. Habgood-Coote, C. Zhou, T. Oni, S.T. Anderson, A.J. Brent, A.C. Crampin, B. Eley, R. Heyderman, F. Kern, P.R. Langford, T.H.M. Ottenhoff, M.L. Hibberd, N. French, V.J. Wright, H.M. Dockrell, L.J. Coin, R.J. Wilkinson, M. Levin. Front Immunol. 2021; 12: 637164.
 
@@ -205,7 +209,7 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 * Costing and business cases preparation
 * Workforce skill development
 * Project management
-* Risk managmeent
+* Risk management
 * Cost-benefit analysis
 * Budgeting and invoicing
 * Balance sheets interpretation
