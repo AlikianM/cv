@@ -21,7 +21,7 @@ I am currently based within the Cancer Genomics section at the [West Midlands Re
 
 ## Employment
 
-`06.2020-present`
+`08.2019-05.2020`
 __Institute of Cancer Research (ICR), Royal Marsden NHS Foundation Trust (RMH)__ Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist. Duties:  Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVarUK and ClinVar. As Clincial Scientist providing consultancy services to various NHS laboratories.
 
 `06.2017-07.2019`
