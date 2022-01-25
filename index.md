@@ -53,6 +53,10 @@ __Queen Mary University of London (QMUL)__ MSc Cancer Therapeutics and Molecular
 `2001-2005`
 __Tishreen University, Lattakia, Syria__ BSc in Biochemistry (_Hons_) 1.1
 
+## Leadership Programs
+`2022-2023`
+__NHSE CSO Knowledge Transfer Program KTP__ 
+
 ## Profesional Memberships
 
 `2017`
