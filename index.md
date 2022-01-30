@@ -16,7 +16,7 @@ A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genom
 
 ## Current
 
-I am currently based within the Cancer Genomics section at the [West Midlands Regional Genetics Laboratory] (https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory) which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels.
+I am currently based within the Cancer Genomics section at the [West Midlands Regional Genetics Laboratory] (https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory) which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
 
 
 ## Employment
@@ -73,6 +73,9 @@ British Society of Medical Genetics, BSMG (_former BSHG_)
 European Society of Human Genetics, ESHG
 Cancer genetics Interest Group
 Society of Genomics Policy and Human Genetics
+
+`2012`
+The Eurpean Leukemia Net (ELN)
 
 `2012`
 Genetics Society
