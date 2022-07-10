@@ -16,13 +16,13 @@ A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genom
 
 ## Current
 
-I am currently based within the Cancer Genomics section at the [West Midlands Regional Genetics Laboratory] (https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory) which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
+I am currently based within the Cancer Genomics section at the <a href="[https://alikianm.github.io](https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory)">West Midlands Regional Genetics Laboratory</a> which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
 
 
 ## Employment
 
 `07.2020-present`
-__Birmingham Women's and Children's NHS Foundation Trust, University of Birmingham __ Principal Clincial Scientist, and Honorary Senior Lecturor. Duties:  Delivery of High Quality National Cancer Test Directory within the C&S-GLH in addition to leading on cross-GLH collaborative projects.
+__Birmingham Women's and Children's NHS Foundation Trust, University of Birmingham__ Principal Clincial Scientist, and Honorary Senior Lecturor. Duties:  Delivery of High Quality National Cancer Test Directory within the C&S-GLH in addition to leading on cross-GLH collaborative projects.
 
 `08.2019-05.2020`
 __Institute of Cancer Research (ICR), Royal Marsden NHS Foundation Trust (RMH)__ Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist. Duties:  Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVarUK and ClinVar. As Clincial Scientist providing consultancy services to various NHS laboratories.
