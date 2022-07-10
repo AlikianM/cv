@@ -16,19 +16,19 @@ A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genom
 
 ## Current
 
-I am currently based within the Cancer Genomics section at the <a href="[https://alikianm.github.io](https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory)">West Midlands Regional Genetics Laboratory</a> which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
+I am currently based within the Cancer Genomics section at the <a href="https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory">West Midlands Regional Genetics Laboratory</a> which is the lead centre for the Central and Sount Genomic Labortory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
 
 
 ## Employment
 
 `07.2020-present`
-__Birmingham Women's and Children's NHS Foundation Trust, University of Birmingham__ Principal Clincial Scientist, and Honorary Senior Lecturor. Duties:  Delivery of High Quality National Cancer Test Directory within the C&S-GLH in addition to leading on cross-GLH collaborative projects.
+__Birmingham Women's and Children's NHS Foundation Trust & Imperial Colelge London (ICL)__ Principal Clincial Scientist, and Honorary Lecturor. Duties:  Delivery of High Quality National Cancer Test Directory within the C&S-GLH in addition to leading on cross-GLH collaborative projects.
 
 `08.2019-05.2020`
-__Institute of Cancer Research (ICR), Royal Marsden NHS Foundation Trust (RMH)__ Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist. Duties:  Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVarUK and ClinVar. As Clincial Scientist providing consultancy services to various NHS laboratories.
+__Institute of Cancer Research (ICR) & Royal Marsden NHS Foundation Trust (RMH) & Imperial Colelge London (ICL)__ Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist, and Honorary Lecturor. Duties:  Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVarUK and ClinVar. As Clincial Scientist providing consultancy services to various NHS laboratories.
 
 `06.2017-07.2019`
-__Imperial College Healthcare NHS Trust (ICHT), Imperial Colelge London (ICL)__ Senior Clinical Scientist and Honorary Research Associate. Duties: lead the setting up of the genomics lab within Imperial as part of WLGMC, lead the return of results process and the management of the clinical reporting team within WLGMC working on multiple sites (ICHT, RMH, RBH and GOSH). Result interpretation, validation and clinical report provision for the three disciplines (Rare Disease, Cancer and HaemOnc). Managing API access, pulling data and working within the environment. Preparation for and setting up of Genomic MDTs as part of the mainstreaming process. Participation in workshops and best practice guidance documentation. Deputy lead for genomic education and skill development within the department in addition to consulting and planning for various R&D projects. Deputy lead for Quality management in addition to leading the Haematological rare disease service provision. Operational duties such as recruitment, TAT monitoring, appraisals, health roaster management, business case development, managerial meetings, risk assessments, service audits and planning, complaint investigations, etc. In addition, supervision of MSc student projects, lecturing and taking part in various research projects ongoing within the department and internationally.
+__Imperial College Healthcare NHS Trust (ICHT) & Imperial Colelge London (ICL)__ Senior Clinical Scientist and Honorary Research Associate. Duties: lead the setting up of the genomics lab within Imperial as part of WLGMC, lead the return of results process and the management of the clinical reporting team within WLGMC working on multiple sites (ICHT, RMH, RBH and GOSH). Result interpretation, validation and clinical report provision for the three disciplines (Rare Disease, Cancer and HaemOnc). Managing API access, pulling data and working within the environment. Preparation for and setting up of Genomic MDTs as part of the mainstreaming process. Participation in workshops and best practice guidance documentation. Deputy lead for genomic education and skill development within the department in addition to consulting and planning for various R&D projects. Deputy lead for Quality management in addition to leading the Haematological rare disease service provision. Operational duties such as recruitment, TAT monitoring, appraisals, health roaster management, business case development, managerial meetings, risk assessments, service audits and planning, complaint investigations, etc. In addition, supervision of MSc student projects, lecturing and taking part in various research projects ongoing within the department and internationally.
 
 `01.2015-06.2017`
 __Imperial College London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Senior Research Associate and Honorary Clinical Scientist. Duties: Actively participate in CML research and data analysis in addition to implementing state of the art Next generation sequencing (NGS) and dPCR technologies for routine genetic testing in Hematological malignancies and solid tumours. Staff and project management, Workflow management, clinical reporting, test validation and technical troubleshooting, participation towards ISO preparation in addition to supervising students and staff training.  Representing the department in international meetings and collaborate with other national and international groups.
@@ -199,13 +199,13 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 * R - bb2 plot
 * Git, GitHub
 * HPC environment
-* M. office packages
+* M.office packages
 * GraphPad PRISM
 
 
 ## Graphical Skills
 
-* Adobe (Photoshop, Illustrator, InDesign)
+* Adobe (Photoshop, Illustrator, InDesign, Premiere Pro)
 * Corel Draw
 * FLASH Animation
 
@@ -236,11 +236,13 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 
 
 ## Lecturing Experience
-__Haematology BSc course__ – Imperial College London    
+__Haematology BSc course__ – Imperial College London. &nbsp; &nbsp; _since 2015_   
 
-__MSc Genomic Medicine__ – Imperial College London     
+__MSc Genomic Medicine__ – Imperial College London. &nbsp; &nbsp; _since 2017_ 
 
-__dPCR 3 day course__ – EMBL     
+__dPCR 3 day course__ – EMBL. &nbsp; &nbsp; _(217-2018. discontinued and merged with other courses)_               
+
+__Pre-medical course__ – Cambridge Unibersity. &nbsp; &nbsp; _since 2021_            
 
 _Exam paper marking for various BSc and MSc modules_       
 
