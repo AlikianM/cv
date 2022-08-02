@@ -240,6 +240,8 @@ __Haematology BSc course__ – Imperial College London. &nbsp; &nbsp; _since 201
 
 __MSc Genomic Medicine__ – Imperial College London. &nbsp; &nbsp; _since 2017_ 
 
+__MSc Human Genetics__ – Imperial College London. &nbsp; &nbsp; _since 2018_ 
+
 __dPCR 3 day course__ – EMBL. &nbsp; &nbsp; _(217-2018. discontinued and merged with other courses)_               
 
 __Pre-medical course__ – Cambridge Unibersity. &nbsp; &nbsp; _since 2021_            
