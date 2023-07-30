@@ -234,8 +234,8 @@ C.OWEN, P. VIRAPPANE, __M. Alikian__, I. STASEVICH, K. SUMMERS, D. LILLINGTON, D
 * Auditing
 * Recruitment and Selection
 * workload management
-* Staff management, development and appraisals
-* strategic plannning
+* Staff management, development, and appraisals
+* strategic planning
 * Mentoring and Coaching
 * Team development
 
@@ -255,16 +255,22 @@ _Exam paper marking for various BSc and MSc modules_
 
 
 
-## Student supervision
+## Student Supervision
 
-Supervised a range of students to complete their projects for various courses including MSc Human Molecular genetics, MSc Molecular medicine, MSc Genomic Medicine, MRes in cancer biology, Erasmus program, BSc Biomedical Sciences, Trainee MDs, STPs and clinical scientists, etc
+Supervised a range of students to complete their projects for various courses including MSc Human Molecular genetics, MSc Molecular medicine, MSc Genomic Medicine, MRes in cancer Biology, Erasmus program, BSc Biomedical Sciences, Trainee MDs, STPs, and clinical scientists, etc
 
 
 ## Public Engagement
 
 STEM (Science, Technology, Engineering and Mathematics) Ambassador 
-Research dissemination and public education thought commercial videos and webinars prepared in conjugation with industry or charity bodies. 
-Science day participation to promote the profession of healthcare science.</p>
+Research dissemination and public education through commercial videos and webinars prepared in conjugation with industry or charity bodies. 
+Science Day participation to promote the profession of healthcare science.
+
+
+## Charity
+
+__<a href="https://www.leukaemiauk.org.uk/news/leukaemia-uk-and-leuka-have-merged/">Leukemia UK</a>__  - Leukemia and Leuka charities merged bringing together two of the UK’s leading leukaemia and blood cancer charities to create one charity dedicated to innovative research and care for people affected by blood cancers.
+__<a href="http://diamondblackfan.org.uk/">DBA</a>__ - Delivering support, research, and hope to the DBA community.
 
 
 ## Links
