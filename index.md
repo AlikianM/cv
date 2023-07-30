@@ -285,7 +285,7 @@ __<a href="http://diamondblackfan.org.uk/">DBA</a>__ - Delivering support, resea
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4298-6926">ORCID</a>
 * <i class="fa fa-university"></i> <a href="https://www.imperial.ac.uk/people/m.alikian">Imperial/people</a>
 * <i class="fa fa-university"></i> <a href="https://www.ice.cam.ac.uk/about-us/staff-profiles/tutor/dr-mary-alikian">ICE</a>
-* <i class="<i class="fa-brands fa-researchgate"></i>> <a href="https://www.researchgate.net/profile/Mary-Alikian-3">ResearchGate</a>
+* <i class="fa-brands fa-researchgate"></i> <a href="https://www.researchgate.net/profile/Mary-Alikian-3">ResearchGate</a>
 
 
 <!-- ### Footer
