@@ -269,7 +269,8 @@ Science Day participation to promote the profession of healthcare science.
 
 ## Charity
 
-__<a href="https://www.leukaemiauk.org.uk/news/leukaemia-uk-and-leuka-have-merged/">Leukemia UK</a>__  - Leukemia and Leuka charities merged bringing together two of the UK’s leading leukaemia and blood cancer charities to create one charity dedicated to innovative research and care for people affected by blood cancers.
+__<a href="https://www.leukaemiauk.org.uk/news/leukaemia-uk-and-leuka-have-merged/">Leukaemia UK</a>__  - Leukemia and Leuka charities merged bringing together two of the UK’s leading leukaemia and blood cancer charities to create one charity dedicated to innovative research and care for people affected by blood cancers.
+
 __<a href="http://diamondblackfan.org.uk/">DBA</a>__ - Delivering support, research, and hope to the DBA community.
 
 
