@@ -3,7 +3,7 @@ layout: cv
 title: Mary's CV
 ---
 # Mary Alikian
-A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing and making a difference where I work.
+A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education, and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing, and making a difference where I work.
 
 <div id="webaddress">
 <i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">mary</a>
@@ -16,13 +16,13 @@ A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genom
 
 ## Current
 
-I am currently based within the Cancer Genomics section at the <a href="https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory">West Midlands Regional Genetics Laboratory</a> which is the lead centre for the Central and Sount Genomic Laboratory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
+I am currently based within the Cancer Genomics section at the <a href="https://bwc.nhs.uk/west-midlands-regional-genetics-laboratory">West Midlands Regional Genetics Laboratory</a> which is the lead centre for the Central and South Genomic Laboratory Hub (C&S-GLH). This permanent role involves leading the core cancer services, both acquired and inherited, strategic planning, operational duties, R&D design and implementation, Management and Quality roles in addition to taking part in collaborative projects both at the national and international levels. Also, a lead for the NHSE CSO Knowledge Transfer Program (KTP) addressing bridging the gap between technological advances and their implementation in routine clinical services.
 
 
 ## Employment
 
 `07.2020-present`
-__Birmingham Women's and Children's NHS Foundation Trust & Imperial Colelge London (ICL)__ Principal Clincial Scientist, and Honorary Senior Lecturor. Duties:  Delivery of High-Quality National Cancer Test Directory within the C&S-GLH in addition to leading on cross-GLH interoperability projects.
+__Birmingham Women's and Children's NHS Foundation Trust & Imperial Colelge London (ICL)__ Principal Clincial Scientist, and Honorary Senior Lecturer. Duties:  Delivery of High-Quality National Cancer Test Directory within the C&S-GLH in addition to leading cross-GLH interoperability projects.
 
 `08.2019-05.2020`
 __Institute of Cancer Research (ICR) & Royal Marsden NHS Foundation Trust (RMH) & Imperial College London (ICL)__ Senior Program manager in Cancer Genetics, and Honorary Clinical Scientist, and Honorary Lecturer. Duties: Delivery of 4.3million CRUK Catalyst award, Day to day project and team management, communication with collaborators and event organization, KPI monitoring, media and PPI engagement management, newsletter production, software testing and user manual updates, CSG variant interpretations, CanVIG community management and updating variant classifications in CanVar-UK and ClinVar. As Clinical Scientist providing consultancy services to various NHS laboratories.
@@ -34,7 +34,7 @@ __Imperial College Healthcare NHS Trust (ICHT) & Imperial Colelge London (ICL)__
 __Imperial College London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Senior Research Associate and Honorary Clinical Scientist. Duties: Actively participate in CML research and data analysis in addition to implementing state-of-the-art Next Generation sequencing (NGS) and dPCR technologies for routine genetic testing in Hematological malignancies and solid tumours. Staff and project management, Workflow management, clinical reporting, test validation, and technical troubleshooting, participation towards ISO preparation in addition to supervising students and staff training.  Representing the department in international meetings and collaborating with other national and international groups.
 
 `02.2010-12.2015`
-__Imperial College London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Research Assistant and pre-registered clinical scientist. Duties: contribute in performing MRD and molecular diagnostic tests and clinical reporting, contribute to the research carried out in the department using a wide range of molecular techniques, supervise students, data analysis and presentation, contribute in seminars and meetings and collaborate with other national and international groups.
+__Imperial College London (ICL), Imperial College Healthcare NHS Trust (ICHT)__ Research Assistant and pre-registered clinical scientist. Duties: contribute to performing MRD and molecular diagnostic tests and clinical reporting, contribute to the research carried out in the department using a wide range of molecular techniques, supervise students, data analysis and presentation, contribute in seminars and meetings and collaborate with other national and international groups.
 
 `11.2008-02.2010`
 __Imperial College London (ICL)__ Research Assistant. 
