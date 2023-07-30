@@ -270,7 +270,8 @@ Science day participation to promote the profession of healthcare science.</p>
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:m.alikian@ic.ac.uk">malikian</a><br /> <;/> <i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">mary.alikian</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:m.alikian@ic.ac.uk">malikian</a><br /> <;/>
+* <i class="fa fa-envelope"></i> <a href="mailto:mary.alikian@nhs.net">mary.alikian</a><br />
 * <i class="fa fa-github"></i> <a href="https://github.com/AlikianM">github</a><br />
 * <i class="fa fa-linkedin"></i> <a href="https://uk.linkedin.com/in/mary-alikian-52b1347a">LinkedIn</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=N8TJ0kQAAAAJ&hl=en">Google scholar</a>
