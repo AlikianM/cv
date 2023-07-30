@@ -278,6 +278,7 @@ Science day participation to promote the profession of healthcare science.</p>
 * <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4298-6926">ORCID</a>
 * <i class="ai ai-orcid"></i> <a href="https://www.imperial.ac.uk/people/m.alikian">Imperial/people</a>
 * <i class="ai ai-orcid"></i> <a href="https://www.ice.cam.ac.uk/about-us/staff-profiles/tutor/dr-mary-alikian">ICE</a>
+* <i class="ai ai-orcid"></i> <a href="https://www.researchgate.net/profile/Mary-Alikian-3">ResearchGate</a>
 
 <!-- ### Footer
 
