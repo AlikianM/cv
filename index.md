@@ -63,11 +63,11 @@ __NHSE CSO Knowledge Transfer Program KTP__
 __co-chair ACGS quality sub-committee__
 `2022-present`
 __founder of s-Test Genomics www.stestgenomics.com__ 
+`2024-2025`
+__Executive MBA (Quantic School of Business and Technology)__ 
 
+`2023-present`
 ## Profesional Memberships
-
-`2024`
-__executive MBA (Quantic School of Business and Technology)__ 
 
 `2017`
 __Charter Management Institute (CMI)__ 
