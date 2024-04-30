@@ -56,6 +56,7 @@ __Queen Mary University of London (QMUL)__ MSc Cancer Therapeutics and Molecular
 `2001-2005`
 __Tishreen University, Lattakia, Syria__ BSc in Biochemistry (_Hons_) 1.1
 
+
 ## Leadership Programs
 `2024-2025`
 __Executive MBA (Quantic School of Business and Technology)__ 
@@ -65,6 +66,7 @@ __co-chair ACGS quality sub-committee__
 
 `2022-present`
 __founder of s-Test Genomics www.stestgenomics.com (NHSE CSO Knowledge Transfer Partnership Program (KTP) round 3__ 
+
 
 ## Profesional Memberships
 `2017`
