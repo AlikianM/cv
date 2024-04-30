@@ -59,10 +59,13 @@ __Tishreen University, Lattakia, Syria__ BSc in Biochemistry (_Hons_) 1.1
 ## Leadership Programs
 `2022-2023`
 __NHSE CSO Knowledge Transfer Program KTP__ 
+
 `2023-present`
 __co-chair ACGS quality sub-committee__
+
 `2022-present`
 __founder of s-Test Genomics www.stestgenomics.com__ 
+
 `2024-2025`
 __Executive MBA (Quantic School of Business and Technology)__ 
 
