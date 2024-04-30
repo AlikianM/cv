@@ -66,6 +66,9 @@ __founder of s-Test Genomics www.stestgenomics.com__
 
 ## Profesional Memberships
 
+`2024`
+__executive MBA (Quantic School of Business and Technology)__ 
+
 `2017`
 __Charter Management Institute (CMI)__ 
 
