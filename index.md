@@ -69,7 +69,6 @@ __founder of s-Test Genomics www.stestgenomics.com__
 `2024-2025`
 __Executive MBA (Quantic School of Business and Technology)__ 
 
-`2023-present`
 ## Profesional Memberships
 
 `2017`
